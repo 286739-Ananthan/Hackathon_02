@@ -1,5 +1,5 @@
-## Hackathon_02
-
+# Hackathon_02
+---
 # Employee Management System
 
 A simple Employee Management System built using Python, utilizing Object-Oriented Programming (OOP) principles. The system allows for managing employee records, associating employees with departments, calculating average salaries, and saving/loading data from JSON and CSV files.
