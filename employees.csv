@@ -1,0 +1,6 @@
+Name,Age,Gender,Employee ID,Department,Salary
+Alice,30,Female,E101,HR,48000.0
+Bob,28,Male,E102,IT,55000.0
+Charlie,35,Male,E103,HR,60000.0
+Diana,26,Female,E104,IT,47000.0
+Evan,40,Male,E105,Finance,53000.0
