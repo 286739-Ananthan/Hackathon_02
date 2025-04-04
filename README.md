@@ -1,4 +1,4 @@
-# Hackathon_02
+## Hackathon_02
 
 # Employee Management System
 
@@ -16,12 +16,4 @@ A simple Employee Management System built using Python, utilizing Object-Oriente
 - **`management.py`**: Contains core classes and functions for employee and department management, as well as data persistence.
 - **`sample-usage.py`**: Example script to demonstrate how to use the system for creating employee records, assigning departments, and saving/loading data.
 
-## Installation & Usage
 
-### 1. Clone the Repository
-
-To get started, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/employee-management-system.git
-cd employee-management-system
